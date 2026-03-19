@@ -133,7 +133,7 @@ A complete travel booking platform — flights, trains, buses, metro & hotels. J
 
 `React` `Node.js` `MongoDB` `Express` `JWT` `Leaflet` `Amadeus API`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/shad0w0P/voya-travel-fullstack)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://voya-travel.netlify.app/)
 [![Source](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shad0w0P/voya-travel-fullstack)
 
 ---
